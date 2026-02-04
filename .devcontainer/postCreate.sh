@@ -1,5 +1,3 @@
-chmod +x .devcontainer/postCreate.sh
-
 #!/bin/bash
 
 sudo apt-get update
